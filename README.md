@@ -1,5 +1,6 @@
 # Visor geografico del area quemada
 
+## Dar clic en siguiente link
 (https://asoto59g.github.io/Quema-Aeropuerto-20260121/)
 
 
